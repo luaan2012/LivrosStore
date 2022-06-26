@@ -1,0 +1,12 @@
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Domain\bin\Debug\net6.0\Livros.Domain.deps.json
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Domain\bin\Debug\net6.0\Livros.Domain.dll
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Domain\bin\Debug\net6.0\Livros.Domain.pdb
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Domain\obj\Debug\net6.0\Livros.Domain.csproj.AssemblyReference.cache
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Domain\obj\Debug\net6.0\Livros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Domain\obj\Debug\net6.0\Livros.Domain.AssemblyInfoInputs.cache
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Domain\obj\Debug\net6.0\Livros.Domain.AssemblyInfo.cs
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Domain\obj\Debug\net6.0\Livros.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Domain\obj\Debug\net6.0\Livros.Domain.dll
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Domain\obj\Debug\net6.0\refint\Livros.Domain.dll
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Domain\obj\Debug\net6.0\Livros.Domain.pdb
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Domain\obj\Debug\net6.0\ref\Livros.Domain.dll

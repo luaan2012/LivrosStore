@@ -1,0 +1,12 @@
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Helper\bin\Debug\net6.0\Livros.Helper.deps.json
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Helper\bin\Debug\net6.0\Livros.Helper.dll
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Helper\bin\Debug\net6.0\Livros.Helper.pdb
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Helper\obj\Debug\net6.0\Livros.Helper.csproj.AssemblyReference.cache
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Helper\obj\Debug\net6.0\Livros.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Helper\obj\Debug\net6.0\Livros.Helper.AssemblyInfoInputs.cache
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Helper\obj\Debug\net6.0\Livros.Helper.AssemblyInfo.cs
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Helper\obj\Debug\net6.0\Livros.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Helper\obj\Debug\net6.0\Livros.Helper.dll
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Helper\obj\Debug\net6.0\refint\Livros.Helper.dll
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Helper\obj\Debug\net6.0\Livros.Helper.pdb
+C:\Users\Luan\Documents\ConsultarAPi\back\src\Livros.Helper\obj\Debug\net6.0\ref\Livros.Helper.dll
